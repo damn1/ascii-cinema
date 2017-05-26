@@ -36,3 +36,4 @@ The aim of the lecture is to
 - get familiar with streams and files.
 
 The program is developed in a structured programming paradigm, without use of dynamic arrays.
+It could be extended to include managing of whole cinema or a group of cinemas with more theatres, to increase complexity and to give the students hints about usage of N-dimensional arrays.
